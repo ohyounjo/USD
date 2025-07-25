@@ -1,0 +1,6 @@
+requests
+matplotlib
+pandas
+schedule
+sqlalchemy
+sqlite3
